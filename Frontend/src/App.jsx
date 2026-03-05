@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div className="main-wrapper">
-      {/* Left Side: 40% width with Dark Theme */}
+      
       <div className="left-side">
         <div className="content-box">
           <h1>Create Stunning Thumbnails</h1>
