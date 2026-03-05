@@ -1,4 +1,4 @@
-# 1. Dependencies (NEVER commit these, they are huge!)
+
 node_modules/
 /jspm_packages/
 
